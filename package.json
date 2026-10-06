@@ -11,6 +11,8 @@
   "keywords": [],
   "type": "commonjs",
   "dependencies": {
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.15.1",
     "dotenv": "^18.0.5",
     "express": "^5.2.1",
     "joi": "^18.2.9",
